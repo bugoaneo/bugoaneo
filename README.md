@@ -1,10 +1,10 @@
 Hi 👋 My name is Polina Emelyanova
 ==================================
 
-HTML-Developer & FrontEnd with passion CSS
+HTML-Developer & FrontEnd with passion CSS. 5+ years experience.
 ------------------------------------------
 
-I am a codifier by life. I love complex designs. I want to make a product that will delight users.
+CSS-lover by life. I love complex designs. I want to make a product that will delight users.
 
 *   🌍  I'm based in Novosibirsk
 *   🖥️  See my portfolio at [https://bugoaneo.github.io/](http://bugoaneo.github.io/)
