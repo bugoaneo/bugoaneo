@@ -1,7 +1,7 @@
 Hi 👋 My name is Polina Emelyanova
 ==================================
 
-HTML-Developer & FrontEnd with passion CSS. 5+ years experience.
+HTML-Developer & FrontEnd with passion CSS.
 ------------------------------------------
 
 CSS-lover by life. I love complex designs. I want to make a product that will delight users.
@@ -9,8 +9,6 @@ CSS-lover by life. I love complex designs. I want to make a product that will de
 *   🌍  I'm based in Novosibirsk
 *   🖥️  See my portfolio at [https://bugoaneo.github.io/](http://bugoaneo.github.io/)
 *   🧠  I'm learning React, vanila JS & advanced features CSS
-
-<a href="https://www.twitter.com/bugo_aneo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/bugo_aneo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills 
 <p align="left">
@@ -28,13 +26,3 @@ CSS-lover by life. I love complex designs. I want to make a product that will de
 ### Socials
                   
 <p align="left"> <a href="https://www.codepen.io/emelyanova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Polina Emelyanova#5037" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/bugoaneo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/polina-emelyanova/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bugo_aneo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/bugoaneo/bugoaneo.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bugoaneo&repo=bugoaneo.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bugoaneo/honeycomb" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bugoaneo&repo=honeycomb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/bugoaneo/55620-kekstagram-28" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bugoaneo&repo=55620-kekstagram-28&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bugoaneo/react_card" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bugoaneo&repo=react_card&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
