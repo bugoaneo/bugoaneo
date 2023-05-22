@@ -12,6 +12,7 @@ And I'm also happy to [talk](https://www.youtube.com/watch?v=uAyij4aKmWI) about 
 * 🌍 Territorially I'm in Novosibirsk, but I work with the whole world without exception.
 * 🖥️ A small part of everything I made, both for commercial customers and myself is here [https://bugoaneo.github.io/](http://bugoaneo.github.io/)
 * 🧠 I'm actively learning React, vanila JS and always looking for advanced CSS features
+* ✉️ You can contact me at bugoaneo@gmail.com
 
 
 ## Skills
