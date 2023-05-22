@@ -29,18 +29,18 @@ And I'm also happy to [talk](https://www.youtube.com/watch?v=uAyij4aKmWI) about 
 
 ## Courses
 
-##### Udemy
+#### Udemy
 * JavaScript — The Complete Guide 2023 (Beginner + Advanced) - in progress
  * React — The Complete Guide (incl Hooks, React Router, Redux) - in progress
 
-##### HTML-Academy (2023 год)
+#### HTML-Academy (2023 год)
 * Онлайн‑курс JavaScript. Профессиональная разработка веб-интерфейсов - passed, received a certificate
 
-##### Alexandr Luschenko (2022 год)
+#### Alexandr Luschenko (2022 год)
 * JavaScript 2.0 - passed, received a certificate
 *  Array methods - passed, received a certificate
 
-##### Loft School (2016 год)
+#### Loft School (2016 год)
 * Web Development for Beginners - passed, received a certificate
 
 ## Socials
